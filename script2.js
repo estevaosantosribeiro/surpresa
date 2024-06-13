@@ -400,8 +400,3 @@ window.addEventListener( 'resize', function(){
 	
 	ctx.font = opts.charSize + 'px Verdana';
 })
-
-
-setTimeout(() => {
-    window.location.href = 'index.html'
-}, 13000)
